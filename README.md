@@ -12,7 +12,7 @@ I am a **2nd Year Computer Science Undergraduate** with interest in System Desig
 - **ML Libraries:** PyTorch, Keras, Scikit-learn.
 
 **🤖 Automation**
-- **Automation:** Selenium (Web Scraping), PyAutoGUI (Desktop Control).
+- **Automation:** Selenium (Web Automation), PyAutoGUI (Desktop Control).
 
 **💻 Fundamentals**
 - **Languages:** C, C++, Java, Python.
