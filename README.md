@@ -4,7 +4,7 @@ I am a **2nd Year Computer Science Undergraduate** with interest in System Desig
 
 - 🔭 **Currently working on:** [Ambient-AI](https://github.com/KarSri7694/Ambient-AI), a zero-interaction agent designed to be truly 'ambient'—proactively executing tasks without waiting for user commands.
 
-##### 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 **🚀 Core Stack**
 - **Python:** Advanced usage (AsyncIO, Type Hinting, Decorators).
@@ -19,7 +19,7 @@ I am a **2nd Year Computer Science Undergraduate** with interest in System Desig
 - **Databases:** SQLite, SQL.
 - **Tools:** Git, Linux/WSL, CMake.
 
-##### 🛠️ Featured Work
+### 🛠️ Featured Work
 
 | Project                                                                                                   | Description                                                                     | Tech Stack               |
 | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :----------------------- |
