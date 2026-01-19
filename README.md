@@ -27,3 +27,4 @@ I am a **2nd Year Computer Science Undergraduate** with interest in System Desig
 | **[OpenVINO Contributions](https://github.com/openvinotoolkit/openvino/pulls?q=is%3Apr+author%3AKarSri7694)**  | 🔧 Merged PRs optimizing Python bindings and core inference logic.              | `C++` `Python`           |
 | **[Keras Contributions](https://github.com/keras-team/keras/pulls?q=is%3Apr+author%3AKarSri7694+is%3Aclosed)** | 🧠 Enhancements to OpenVINO backend operations and layer compatibility.         | `Python` `Keras`         |
 
+<a href="mailto:kartikeyasrivastava769@gmail.com">Email</a> 
