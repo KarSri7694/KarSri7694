@@ -1,4 +1,4 @@
-#### Hi there, I'm Kartikeya Srivastava! 👋
+## Hi there, I'm Kartikeya Srivastava! 👋
 
 I am a **2nd Year Computer Science Undergraduate** with interest in System Design and AI, currently focused on building **autonomous local agents** and optimizing inference on edge devices.
 
