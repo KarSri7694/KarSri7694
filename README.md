@@ -1,16 +1,31 @@
-## Hi there 👋
+#### Hi there, I'm Kartikeya Srivastava! 👋
 
-<!--
-**KarSri7694/KarSri7694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **2nd Year Computer Science Undergraduate** with interest in System Design and AI, currently focused on building **autonomous local agents** and optimizing inference on edge devices.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** [Ambient-AI](https://github.com/KarSri7694/Ambient-AI), a zero-interaction agent designed to be truly 'ambient'—proactively executing tasks without waiting for user commands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 🛠️ Technical Skills
+
+**🚀 Core Stack**
+- **Python:** Advanced usage (AsyncIO, Type Hinting, Decorators).
+- **AI Engineering:** RAG Pipelines, Agentic Workflows, MCP (Model Context Protocol).
+- **ML Libraries:** PyTorch, Keras, Scikit-learn.
+
+**🤖 Automation**
+- **Automation:** Selenium (Web Scraping), PyAutoGUI (Desktop Control).
+
+**💻 Fundamentals**
+- **Languages:** C, C++, Java, Python.
+- **Databases:** SQLite, SQL.
+- **Tools:** Git, Linux/WSL, CMake.
+
+##### 🛠️ Featured Work
+
+| Project                                                                                                   | Description                                                                     | Tech Stack               |
+| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :----------------------- |
+| **[Ambient AI](https://github.com/KarSri7694/Ambient-AI)**                                                | 🌌 Fully local, multimodal agent that automates tasks without user interaction. | `Python` `FastAPI` `MCP` |
+| **[OpenVINO Contribs](https://github.com/openvinotoolkit/openvino/pulls?q=is%3Apr+author%3AKarSri7694)**  | 🔧 Merged PRs optimizing Python bindings and core inference logic.              | `C++` `Python`           |
+| **[Keras Contribs](https://github.com/keras-team/keras/pulls?q=is%3Apr+author%3AKarSri7694+is%3Aclosed)** | 🧠 Enhancements to OpenVINO backend operations and layer compatibility.         | `Python` `Keras`         |
+
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarSri7694&theme=dark&hide_border=true)](https://git.io/streak-stats)
